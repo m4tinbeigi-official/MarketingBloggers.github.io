@@ -1,0 +1,66 @@
+[
+  {
+    "name": "ریک سانچز (Rick Sanchez)",
+    "handle": "m4tinbeigi",
+    "category": "هک رشد و اتومیشن",
+    "role": "معمار سیستم‌های خودمختار رشد",
+    "bio": "توسعه‌دهنده سیستم‌های هوشمند، ایجنت‌های خودمختار و اتومیشن مارکتینگ.",
+    "avatar": "avatars/m4tinbeigi.jpg"
+  },
+  {
+    "name": "عادل طالبی",
+    "handle": "adeltalebi",
+    "category": "استراتژی بازاریابی دیجیتال",
+    "role": "مدرس ارشد دیجیتال مارکتینگ",
+    "bio": "استاد دیجیتال مارکتینگ، دبیر انجمن کسب‌وکارهای اینترنتی و منتور استارتاپ‌ها.",
+    "avatar": "avatars/adeltalebi.jpg"
+  },
+  {
+    "name": "بابک بنیادی",
+    "handle": "babakbonyadi",
+    "category": "سئو و معماری وب",
+    "role": "استراتژیست ارشد سئو",
+    "bio": "آموزش سئو تکنیکال، معماری اطلاعات و مشاور سئو سازمان‌های بزرگ.",
+    "avatar": "avatars/babakbonyadi.jpg"
+  },
+  {
+    "name": "محسن حبیبی‌راد",
+    "handle": "mohsenhabibirad",
+    "category": "سئو و سرچ کنسول",
+    "role": "مدرس سئو کاربردی",
+    "bio": "آموزش سئو عملی، کیوورد ریسرچ و سرچ کنسول.",
+    "avatar": "avatars/mohsenhabibirad.jpg"
+  },
+  {
+    "name": "امیرحسین فرزانه",
+    "handle": "amirhossein_growth",
+    "category": "پرفورمنس مارکتینگ",
+    "role": "مدیر پرفورمنس مارکتینگ",
+    "bio": "کمپین‌های ادوردز، دیجیتال ادز و بهینه‌سازی نرخ تبدیل (CRO).",
+    "avatar": "avatars/amirhossein_growth.jpg"
+  },
+  {
+    "name": "فرزاد مقدم",
+    "handle": "farzadmoghaddam",
+    "category": "برندینگ و مارکتینگ",
+    "role": "دکترای برندینگ",
+    "bio": "مشاور برندسازی و بازاریابی یکپارچه در ایران.",
+    "avatar": "avatars/farzadmoghaddam.jpg"
+  },
+  {
+    "name": "حسین مهدوی",
+    "handle": "hosseinmahdavi_ir",
+    "category": "سوشال مدیا مارکتینگ",
+    "role": "استراتژیست محتوا",
+    "bio": "تولید محتوا، سناریونویسی و الگوریتم‌های سوشال مدیا.",
+    "avatar": "avatars/hosseinmahdavi_ir.jpg"
+  },
+  {
+    "name": "امین هاشمی",
+    "handle": "aminhashemi.ir",
+    "category": "سئو و بهینه‌سازی",
+    "role": "مدرس سئو",
+    "bio": "آموزش مبانی و سئو تخصصی و ترفندهای رتبه‌بندی گوگل.",
+    "avatar": "avatars/aminhashemi.ir.jpg"
+  }
+]
